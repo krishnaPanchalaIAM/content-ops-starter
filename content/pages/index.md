@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Unlock Your Cyber Potential, Boost Your Career Growth'
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Train. Certify. Succeed
