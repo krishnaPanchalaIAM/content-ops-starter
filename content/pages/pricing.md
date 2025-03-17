@@ -23,7 +23,7 @@ sections:
         actions:
           - type: Link
             label: Contact US
-            altText: Buy now
+            altText: Contact US
             url: /
             showIcon: true
             icon: shoppingBag
