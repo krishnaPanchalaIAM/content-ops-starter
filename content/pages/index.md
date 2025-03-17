@@ -37,9 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: >-
-        This is a badgeUnlock Cyber Excellence, Accelerate Training, and Certify
-        Success
+      label: 'Unlock Cyber Excellence, Accelerate Training, and Certify Success'
       color: text-primary
       type: Badge
     elementId: ''
