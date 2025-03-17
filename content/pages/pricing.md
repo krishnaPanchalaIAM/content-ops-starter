@@ -82,7 +82,7 @@ sections:
         details: One Time
         description: ''
         features:
-          - 'AWS Cloud '
+          - AWS Cloud Practitioner
           - Feature two
         image:
           url: /images/abstract-feature3.svg
