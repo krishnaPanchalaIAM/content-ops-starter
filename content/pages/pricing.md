@@ -52,7 +52,7 @@ sections:
         actions:
           - type: Link
             label: Buy now
-            altText: Buy now
+            altText: Contact us
             url: /
             showIcon: true
             icon: shoppingBag
