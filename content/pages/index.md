@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: IDAM CYBER
       color: text-dark
       type: TitleBlock
     subtitle: Train. Certify. Succeed
@@ -34,12 +34,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/30f583a9-c31b-4a5c-b565-3899fa94da07.webp
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'Unlock Cyber Excellence, Accelerate Training, and Certify Success'
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -812,9 +812,9 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Welcome to IDAMCYBER
+  metaDescription: IdamCyber will help you succeed.
+  socialImage: /images/30f583a9-c31b-4a5c-b565-3899fa94da07.webp
   type: Seo
 type: PageLayout
 ---
