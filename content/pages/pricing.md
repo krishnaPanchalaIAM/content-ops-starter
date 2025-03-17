@@ -85,7 +85,7 @@ sections:
           - AWS Cloud Practitioner
           - AWS Solutions Architect Associate
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/aws.png
           altText: Pricing plan 3
           type: ImageBlock
         actions: []
