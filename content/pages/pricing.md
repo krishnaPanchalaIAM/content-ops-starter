@@ -118,7 +118,7 @@ sections:
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/abstract-background.svg
   type: Seo
 type: PageLayout
 ---
