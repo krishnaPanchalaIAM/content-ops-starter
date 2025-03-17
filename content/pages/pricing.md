@@ -85,7 +85,6 @@ sections:
           - Feature one
           - Feature two
           - Feature three
-          - Feature four
           - Feature five
         image:
           url: /images/abstract-feature3.svg
