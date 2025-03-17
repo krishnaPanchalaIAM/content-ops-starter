@@ -69,7 +69,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Other Certs
+      - title: CLOUD Certs
         price: Custom
         details: One Time
         description: ''
