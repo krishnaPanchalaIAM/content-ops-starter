@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'Unlock Cyber Excellence, Accelerate Training, and Certify Success'
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
