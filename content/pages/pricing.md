@@ -51,7 +51,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: Buy now
+            label: Contact us
             altText: Contact us
             url: /
             showIcon: true
