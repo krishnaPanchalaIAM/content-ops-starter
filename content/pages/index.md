@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/30f583a9-c31b-4a5c-b565-3899fa94da07.webp
       altText: ''
       elementId: ''
       type: ImageBlock
