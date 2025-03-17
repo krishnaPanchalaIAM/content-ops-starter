@@ -813,7 +813,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: Welcome to IDAMCYBER
-  metaDescription: ''
+  metaDescription: IdamCyber will help you succeed.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
