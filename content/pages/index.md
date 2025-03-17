@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Train. Certify. Succeed
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      IdamCyber is your comprehensive cybersecurity training platform, providing
+      hands-on assignments, expert guidance, and certification support. Every
+      course module instantly enhances your skills, ensuring practical mastery
+      and streamlined success in achieving cybersecurity certifications.
+
     actions:
       - label: Get started
         altText: ''
