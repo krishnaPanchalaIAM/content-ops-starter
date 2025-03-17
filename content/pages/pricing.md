@@ -83,7 +83,7 @@ sections:
         description: ''
         features:
           - AWS Cloud Practitioner
-          - Feature two
+          - AWS Solutions Architect Associate
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
