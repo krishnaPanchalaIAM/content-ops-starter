@@ -70,7 +70,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: CLOUD Certs
-        price: Custom
+        price: $150
         details: One Time
         description: ''
         features:
