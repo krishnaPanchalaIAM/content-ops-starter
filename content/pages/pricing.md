@@ -22,7 +22,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: Contact US
+            label: Contact us
             altText: Contact us
             url: /
             showIcon: true
