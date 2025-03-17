@@ -34,7 +34,7 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
