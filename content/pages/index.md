@@ -813,7 +813,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: Welcome to IDAMCYBER
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
