@@ -23,7 +23,7 @@
         {
             "label": "Certifications",
             "altText": "Certifications",
-            "url": "/blog",
+            "url": "/Certifications",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
