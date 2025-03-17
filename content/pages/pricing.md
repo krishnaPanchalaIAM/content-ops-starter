@@ -77,7 +77,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Any Other Certs
+      - title: Other Certs
         price: Custom
         details: One Time
         description: ''
