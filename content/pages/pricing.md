@@ -25,12 +25,15 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - type: Link
+            label: Buy now
+            altText: Buy now
             url: /
-            icon: arrowRight
-            iconPosition: right
+            showIcon: true
+            icon: shoppingBag
+            iconPosition: left
             style: secondary
-            type: Button
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
