@@ -43,7 +43,7 @@ sections:
         type: PricingPlan
       - title: OKTA Certified Administrator
         price: $250
-        details: per month
+        details: One Time
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
