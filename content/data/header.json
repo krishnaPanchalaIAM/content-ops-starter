@@ -23,7 +23,7 @@
         {
             "label": "Cloud Projects",
             "altText": "Certifications",
-            "url": "/Certifications",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
