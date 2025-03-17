@@ -51,7 +51,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/ADMIN.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
