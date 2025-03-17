@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Pricing",
-            "url": "/certs",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
