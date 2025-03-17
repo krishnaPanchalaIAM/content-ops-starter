@@ -117,10 +117,5 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
-seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/abstract-background.svg
-  type: Seo
 type: PageLayout
 ---
