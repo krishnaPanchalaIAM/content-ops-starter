@@ -45,7 +45,6 @@ sections:
         details: One Time
         description: "Okta Certified Administrators are technically proficient at managing the Okta service. They have extensive knowledge about how Okta enables advanced User Lifecycle Management scenarios involving mobile devices, security policy frameworks, supported SSO options, and advanced directory integration for cloud and on-premise access. Administrators use the Okta Policy framework to control user access, understand how to map identity attributes and data transformations using Universal Directory, and troubleshoot issues.\n\nThe Okta Certified Administrator Hands-On Configuration exam assesses your knowledge and skill in a live Okta environment. The exam is based on the Okta Identity Engine (OIE) platform. Experience performing Okta administration activities is needed to do well on this exam.\_\n\nThe Okta Certified Administrator Hands-On Configuration exam is a proctored online exam.\n\n*   Exam consists of two parts:\n\n*   Part I = 35 Discrete Option Multiple Choice (DOMC) items\n\n*   Part II = Four performance-based hands-on use cases\n\n*   Total Exam Time = 165 minutes (45 minutes for Part I and 120 minutes for Part II)\n\n*   250 USD Base Price (100 USD Retake Price)\n\n"
         features:
-          - Feature three
           - Feature four
         image:
           url: /images/ADMIN.png
