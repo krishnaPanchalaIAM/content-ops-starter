@@ -79,7 +79,7 @@ sections:
         type: PricingPlan
       - title: Any Other Certs
         price: Custom
-        details: per month
+        details: One Time
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
