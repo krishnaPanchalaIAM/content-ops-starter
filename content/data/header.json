@@ -21,17 +21,17 @@
             "type": "Link"
         },
         {
-            "label": "Certifications",
+            "label": "Cloud Projects",
             "altText": "Certifications",
-            "url": "/Certifications",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
+            "label": "Assignments",
+            "altText": "Assignments",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
