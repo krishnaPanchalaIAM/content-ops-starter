@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Certifications What we Do!!
     plans:
       - title: OKTA Certified Professional
         price: '200'
