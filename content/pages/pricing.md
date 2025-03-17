@@ -22,7 +22,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Link
-            label: Buy now
+            label: Contact US
             altText: Buy now
             url: /
             showIcon: true
