@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: IDAM CYBER
-      color: text-neutral
+      color: text-primary
       type: TitleBlock
     subtitle: Train. Certify. Succeed
     text: >+
