@@ -82,7 +82,7 @@ sections:
         details: One Time
         description: ''
         features:
-          - Feature one
+          - 'AWS Cloud '
           - Feature two
         image:
           url: /images/abstract-feature3.svg
