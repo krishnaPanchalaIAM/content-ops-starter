@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Certifications",
-            "url": "/pricing",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
