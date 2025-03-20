@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/admin@idamcyber.com",
+            "url": "mailto:admin@idamcyber.com",
             "icon": "mail",
             "type": "Social"
         }
