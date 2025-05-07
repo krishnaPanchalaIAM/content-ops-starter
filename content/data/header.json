@@ -17,14 +17,6 @@
             "altText": "About Me",
             "links": [
                 {
-                    "label": "Assignments",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "label": "Cloud Projects",
                     "url": "/",
                     "icon": "arrowRight",
