@@ -24,7 +24,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "",
+            "url": "dev-t7ghqqcwxbsjsi0z.us.auth0.com/login",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
