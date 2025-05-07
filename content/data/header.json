@@ -21,15 +21,6 @@
             "type": "Link"
         },
         {
-            "label": "Assignments",
-            "altText": "Assignments",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Tech Support",
             "altText": "Tech Support",
             "links": [
