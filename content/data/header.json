@@ -31,14 +31,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
-                },
-                {
-                    "label": "Interview Support",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
