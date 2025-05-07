@@ -13,60 +13,9 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Cloud Projects",
-            "altText": "Certifications",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Assignments",
-            "altText": "Assignments",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Tech Support",
-            "altText": "Tech Support",
-            "links": [
-                {
-                    "label": "Assignments",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Cloud Projects",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Interview Support",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
+            "label": "About Me",
+            "altText": "About Me",
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
@@ -75,7 +24,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "dev-t7ghqqcwxbsjsi0z.us.auth0.com/login",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -83,7 +32,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "/dev-t7ghqqcwxbsjsi0z.us.auth0.com/login",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
